@@ -1,0 +1,5 @@
+gray - #B4BEC9
+green - #159A9C
+dark green - #002333
+light green - #DEEFE7
+white - #FFFFFF
